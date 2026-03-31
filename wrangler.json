@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "afker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d9256e1e-6816-4993-95fd-d07a1d575d09",
+			"database_name": "live_characters"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
